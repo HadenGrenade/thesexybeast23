@@ -1,0 +1,6 @@
+- 👋 Hi, I’m HandGrenade
+- 👀 I’m interested in C++ | Game hacking | Game creating with Unity
+- 🌱 I’m currently learning C++
+- 📫 How to reach me handgrenade#0133 on discord!
+- 👾 I'm working mainly on a open source project known as xesa ( https://github.com/Cr7mbl3/xesa | It's private as of now but will go public soon! ) 
+- 🧉  Need help pasting? Well add my discord, i can help!                                                                       
